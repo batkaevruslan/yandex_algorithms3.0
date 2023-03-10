@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Stack", "11.Stack\11.Sta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Brackets", "12.Brackets\12.Brackets.csproj", "{279D0D71-A9B4-4113-9CF2-11B953478A36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.PostfixRecord", "13.PostfixRecord\13.PostfixRecord.csproj", "{CDA2412C-8E96-4150-8440-D145BF9797B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{279D0D71-A9B4-4113-9CF2-11B953478A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{279D0D71-A9B4-4113-9CF2-11B953478A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{279D0D71-A9B4-4113-9CF2-11B953478A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA2412C-8E96-4150-8440-D145BF9797B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA2412C-8E96-4150-8440-D145BF9797B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA2412C-8E96-4150-8440-D145BF9797B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA2412C-8E96-4150-8440-D145BF9797B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
