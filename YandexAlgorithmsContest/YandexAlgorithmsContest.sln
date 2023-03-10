@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.SumInRectangle", "9.SumIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.BoringLection", "10.BoringLection\10.BoringLection.csproj", "{095F0B4E-C643-43D2-ABE9-1ADA077316CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.PrettyString", "2.PrettyString\2.PrettyString.csproj", "{61D087C6-5C35-41B3-A5E8-0C8B2A01DA18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.PrettyString", "2.PrettyString\2.PrettyString.csproj", "{61D087C6-5C35-41B3-A5E8-0C8B2A01DA18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Stack", "11.Stack\11.Stack.csproj", "{2799412C-24B1-4E88-A438-972152B9783A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Stack", "11.Stack\11.Stack.csproj", "{2799412C-24B1-4E88-A438-972152B9783A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Brackets", "12.Brackets\12.Brackets.csproj", "{279D0D71-A9B4-4113-9CF2-11B953478A36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{2799412C-24B1-4E88-A438-972152B9783A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2799412C-24B1-4E88-A438-972152B9783A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2799412C-24B1-4E88-A438-972152B9783A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279D0D71-A9B4-4113-9CF2-11B953478A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279D0D71-A9B4-4113-9CF2-11B953478A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279D0D71-A9B4-4113-9CF2-11B953478A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279D0D71-A9B4-4113-9CF2-11B953478A36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
