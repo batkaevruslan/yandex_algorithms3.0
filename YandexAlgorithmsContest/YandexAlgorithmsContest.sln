@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.TrainSort", "14.TrainSor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.LinlandResettlement", "15.LinlandResettlement\15.LinlandResettlement.csproj", "{9CB95D07-A47E-463D-B019-2A6AE96B973D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Queue", "16.Queue\16.Queue.csproj", "{291C6227-5179-42DB-8C40-A3E32B4868A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{9CB95D07-A47E-463D-B019-2A6AE96B973D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CB95D07-A47E-463D-B019-2A6AE96B973D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CB95D07-A47E-463D-B019-2A6AE96B973D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{291C6227-5179-42DB-8C40-A3E32B4868A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291C6227-5179-42DB-8C40-A3E32B4868A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291C6227-5179-42DB-8C40-A3E32B4868A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291C6227-5179-42DB-8C40-A3E32B4868A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
