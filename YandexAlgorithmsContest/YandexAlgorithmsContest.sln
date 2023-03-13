@@ -31,11 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.PostfixRecord", "13.Post
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.TrainSort", "14.TrainSort\14.TrainSort.csproj", "{6395CB5B-BC77-4634-B2F2-C96A6DD2205B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.LinlandResettlement", "15.LinlandResettlement\15.LinlandResettlement.csproj", "{9CB95D07-A47E-463D-B019-2A6AE96B973D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.LinlandResettlement", "15.LinlandResettlement\15.LinlandResettlement.csproj", "{9CB95D07-A47E-463D-B019-2A6AE96B973D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Queue", "16.Queue\16.Queue.csproj", "{291C6227-5179-42DB-8C40-A3E32B4868A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.Queue", "16.Queue\16.Queue.csproj", "{291C6227-5179-42DB-8C40-A3E32B4868A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.Pianica", "17.Pianica\17.Pianica.csproj", "{7939F15F-388A-4E81-906B-4B13C3BBC7CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.Pianica", "17.Pianica\17.Pianica.csproj", "{7939F15F-388A-4E81-906B-4B13C3BBC7CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.Deque", "18.Deque\18.Deque.csproj", "{ABCD59AD-55ED-4CB0-AC7E-51CEB299D2DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{7939F15F-388A-4E81-906B-4B13C3BBC7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7939F15F-388A-4E81-906B-4B13C3BBC7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7939F15F-388A-4E81-906B-4B13C3BBC7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABCD59AD-55ED-4CB0-AC7E-51CEB299D2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCD59AD-55ED-4CB0-AC7E-51CEB299D2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCD59AD-55ED-4CB0-AC7E-51CEB299D2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCD59AD-55ED-4CB0-AC7E-51CEB299D2DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
