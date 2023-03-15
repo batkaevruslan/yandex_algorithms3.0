@@ -39,11 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.Pianica", "17.Pianica\17
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18.Deque", "18.Deque\18.Deque.csproj", "{ABCD59AD-55ED-4CB0-AC7E-51CEB299D2DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.Heap", "19.Heap\19.Heap.csproj", "{4CCC3601-7CBF-4203-8DF3-97DE2B4FB723}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19.Heap", "19.Heap\19.Heap.csproj", "{4CCC3601-7CBF-4203-8DF3-97DE2B4FB723}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final.A", "Final.A\Final.A.csproj", "{527194BB-AD4A-4E6A-89DC-B6F71403DB1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final.A", "Final.A\Final.A.csproj", "{527194BB-AD4A-4E6A-89DC-B6F71403DB1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final.B", "Final.B\Final.B.csproj", "{5CC9F2DE-D067-441A-BF3F-8228BBC99913}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final.C", "Final.C\Final.C.csproj", "{5CC9F2DE-D067-441A-BF3F-8228BBC99913}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
