@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.HeapSort", "20.HeapSort\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.ThreeConsecutiveOnes", "21.ThreeConsecutiveOnes\21.ThreeConsecutiveOnes.csproj", "{09696F4F-CE66-468C-BD29-8E9A0ACFCB13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.Grasshopper", "22.Grasshopper\22.Grasshopper.csproj", "{ED51F2FC-9F7F-4A31-96C1-E71C4D443D3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22.Grasshopper", "22.Grasshopper\22.Grasshopper.csproj", "{ED51F2FC-9F7F-4A31-96C1-E71C4D443D3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23.Calculator", "23.Calculator\23.Calculator.csproj", "{D50A9621-1E57-4086-8169-7034D2C7294A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{ED51F2FC-9F7F-4A31-96C1-E71C4D443D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED51F2FC-9F7F-4A31-96C1-E71C4D443D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED51F2FC-9F7F-4A31-96C1-E71C4D443D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50A9621-1E57-4086-8169-7034D2C7294A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50A9621-1E57-4086-8169-7034D2C7294A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50A9621-1E57-4086-8169-7034D2C7294A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50A9621-1E57-4086-8169-7034D2C7294A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
