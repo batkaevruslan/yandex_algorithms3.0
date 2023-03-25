@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26.CheapestPath", "26.Cheap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27.MostExpensivePath", "27.MostExpensivePath\27.MostExpensivePath.csproj", "{7252A928-D833-4C0C-B82F-0D872EBC8FCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28.KnightMove", "28.KnightMove\28.KnightMove.csproj", "{E64BCE77-35C4-4323-9B6A-B58459B2D570}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{7252A928-D833-4C0C-B82F-0D872EBC8FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7252A928-D833-4C0C-B82F-0D872EBC8FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7252A928-D833-4C0C-B82F-0D872EBC8FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64BCE77-35C4-4323-9B6A-B58459B2D570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64BCE77-35C4-4323-9B6A-B58459B2D570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64BCE77-35C4-4323-9B6A-B58459B2D570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64BCE77-35C4-4323-9B6A-B58459B2D570}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -221,6 +227,7 @@ Global
 		{EB2AECBD-37F9-4A10-9F33-CFDCE49487F1} = {A3256A58-D443-4A5E-8B68-B87A9168BA7E}
 		{288EACD6-19C9-4AE1-9178-B08CAB88B159} = {A3256A58-D443-4A5E-8B68-B87A9168BA7E}
 		{7252A928-D833-4C0C-B82F-0D872EBC8FCB} = {A3256A58-D443-4A5E-8B68-B87A9168BA7E}
+		{E64BCE77-35C4-4323-9B6A-B58459B2D570} = {A3256A58-D443-4A5E-8B68-B87A9168BA7E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BECEA1AA-6FDC-4CAE-AB46-96E975E90EEA}
