@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34.TopologicalSort", "34.To
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35.CycleCheck", "35.CycleCheck\35.CycleCheck.csproj", "{A8625C51-4138-40BC-9479-4D5E4661D7FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36.ShortestPath", "36.ShortestPath\36.ShortestPath.csproj", "{3D9327FF-FE39-451D-A0B9-D78F10A0E6B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -251,6 +253,10 @@ Global
 		{A8625C51-4138-40BC-9479-4D5E4661D7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8625C51-4138-40BC-9479-4D5E4661D7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8625C51-4138-40BC-9479-4D5E4661D7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9327FF-FE39-451D-A0B9-D78F10A0E6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9327FF-FE39-451D-A0B9-D78F10A0E6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9327FF-FE39-451D-A0B9-D78F10A0E6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9327FF-FE39-451D-A0B9-D78F10A0E6B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -291,6 +297,7 @@ Global
 		{AFCA664C-37D0-4773-8307-79B0A8F8870C} = {0F08316B-AD73-4D51-8CF2-8F2B57A9346B}
 		{5D967075-93B0-41F9-9612-F51C00AE7EF5} = {0F08316B-AD73-4D51-8CF2-8F2B57A9346B}
 		{A8625C51-4138-40BC-9479-4D5E4661D7FA} = {0F08316B-AD73-4D51-8CF2-8F2B57A9346B}
+		{3D9327FF-FE39-451D-A0B9-D78F10A0E6B3} = {0F08316B-AD73-4D51-8CF2-8F2B57A9346B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BECEA1AA-6FDC-4CAE-AB46-96E975E90EEA}
